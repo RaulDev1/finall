@@ -1,0 +1,161 @@
+.footer111 {
+    margin-top: 490px;
+    margin-left: -50px;
+    width: 2100px;
+    height: 160px;
+    position: absolute;
+    background-color: rgb(228, 228, 228);
+}
+
+.vestaft11 {
+    margin-left: 430px;
+    font-weight: normal;
+    font-size: 19px;
+    margin-top: 515px;
+    position: absolute;
+    color: rgb(147, 147, 147);
+}
+
+.line211 {
+    margin-top: 525px;
+    margin-left: 570px;
+    width: 1px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(147, 147, 147);
+}
+
+.textft112 {
+    font-weight: normal;
+    font-size: 12px;
+    margin-top: 522px;
+    margin-left: 585px;
+    position: absolute;
+    color: rgb(147, 147, 147);
+}
+
+.line311 {
+    margin-top: 525px;
+    margin-left: 740px;
+    width: 1px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(147, 147, 147);
+}
+
+.textft1112 {
+    font-weight: normal;
+    font-size: 12px;
+    margin-top: 522px;
+    margin-left: 756px;
+    position: absolute;
+    color: rgb(147, 147, 147);
+}
+
+.line411 {
+    margin-top: 525px;
+    margin-left: 910px;
+    width: 1px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(147, 147, 147);
+}
+
+.textft211 {
+    font-weight: normal;
+    font-size: 12px;
+    margin-top: 522px;
+    margin-left: 930px;
+    position: absolute;
+    color: rgb(147, 147, 147);
+}
+
+.textft311 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 553px;
+    margin-left: 585px;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgb(147, 147, 147);
+}
+
+.textft411 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 568px;
+    margin-left: 585px;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgb(147, 147, 147);
+}
+
+.textft511 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 583px;
+    margin-left: 585px;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgb(147, 147, 147);
+}
+
+.textft611 {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 598px;
+    margin-left: 585px;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgb(147, 147, 147);
+}
+
+.textft711 {
+    position: absolute;
+    margin-top: 553px;
+    margin-left: 757px;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgb(147, 147, 147);
+}
+
+.textft811 {
+    position: absolute;
+    margin-top: 568px;
+    margin-left: 756px;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgb(147, 147, 147);
+}
+
+.item6011 {
+    width: 20px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 170px;
+}
+
+.item6111 {
+    width: 20px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 559px;
+    margin-left: 195px;
+}
+
+.item6211 {
+    width: 20px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 220px;
+}
+
+.item6311 {
+    width: 20px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 247px;
+}

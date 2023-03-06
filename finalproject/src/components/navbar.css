@@ -1,0 +1,534 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+.text1 {
+  font-weight: normal;
+  font-size: 10px;
+  margin-left: 970px;
+}
+
+
+
+.gray {
+    margin-top: -129px;
+    height: 7vh;
+    background-color: rgb(228, 228, 228);
+    line-height: 10vh;
+}
+
+.navbar {
+    z-index: 2;
+    height: 7vh;
+    background-color:rgba(36, 35, 35, 1);
+    line-height: 10vh;
+}
+
+.logo {
+    font-weight: normal;
+    margin-left: 435px;
+    margin-top: -12px;
+    font-size: 18px;
+    color: white;
+
+}
+
+.nav-links {
+    margin-left: 1;
+    margin-top: -9px;
+ display: flex;
+ 
+ width: 75%;
+}
+
+a:hover li {
+    transition: 1s;
+    color:white
+
+}
+
+.container {
+    max-width: 90%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links li {
+    margin-top: -50px;
+    color: gray;
+    font-size: 11px;
+    padding: 0 12px;
+    margin: 0 51px;
+    cursor: pointer;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.hero h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.item2 {
+    position: absolute;
+    margin-left: -350px;
+    width: 350px;
+    margin-top: -179px;
+}
+
+.item1 {
+    position: absolute;
+    margin-right: 1px;
+    width: 350px;
+    margin-top: -179px;
+}
+
+.text3 {
+    margin-top: -70px;
+    font-size: 32px;
+    margin-left: 818px;
+    font-weight: normal;
+    position: absolute;
+    color: black;
+}
+
+.item3 {
+    position: absolute;
+    margin-right: 1px;
+    width: 350px;
+    margin-top: 157px;
+}
+
+.item4 {
+    margin-top: 157px;
+    margin-left: 409.9px;
+    width: 350px;
+    height: 336px;
+    position: absolute;
+    background-color: rgb(163, 199, 189)
+}
+
+.item5 {
+    cursor: pointer;
+    margin-top: 600px;
+    margin-left: -350px;
+    width: 230px;
+    height: 355px;
+    position: absolute;
+}
+
+.item6 {
+    cursor: pointer;
+    margin-top: 600px;
+    margin-left: -112px;
+    width: 230px;
+    height: 355px;
+    position: absolute;
+}
+
+.item5:hover {
+    transition: 1s;
+    transform: scale(0.9);
+   }
+
+.item6:hover {
+    transition: 1s;
+    transform: scale(0.9);
+   }
+
+.item7 {
+    cursor: pointer;
+    margin-top: 600px;
+    margin-left: 125px;
+    width: 230px;
+    height: 355px;
+    position: absolute;
+}
+
+.item7:hover {
+    transition: 1s;
+    transform: scale(0.9);
+   }
+
+.text5 {
+    position: absolute;
+    font-weight: normal;
+    margin-left: 623px;
+    margin-top: 526px;
+    font-size: 25px;
+    color: black;
+}
+
+.input1 {
+    
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 1080px;   
+}
+
+input {
+    height: 29px;
+    width: 706px;
+    color:white;
+    background-color: rgb(49, 49, 49);
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    font-size: 10px;
+    color:    white;
+}
+
+.button1 {
+    color: rgb(65, 63, 63);
+    background-color: white;
+    font-weight: normal;
+    font-size: 8px;
+    cursor: pointer;
+    margin-left: -350px;
+    margin-top: 1115px;
+    position: absolute;
+    height: 29px;
+    width: 706px;
+    
+}
+
+.button1:hover {
+    background-color: white;
+    transition: 1s;
+    color: rgb(118, 112, 112)
+}
+
+.box1 {
+    margin-top: 1195px;
+    margin-left: -50px;
+    width: 2100px;
+    height: 375px;
+    position: absolute;
+    background-color: rgb(36, 35, 35);
+}
+
+.item8 {
+    cursor: pointer;
+    width: 330px;
+    position: absolute;
+    margin-top: 1230px;
+    margin-left: -346px;
+}
+
+.item10 {
+    height: 308px;
+    cursor: pointer;
+    width: 330px;
+    position: absolute;
+    margin-top: 1230px;
+    margin-left: 26px;
+}
+
+.square {
+    margin-top: -179px;
+    margin-left: -50px;
+    width: 2100px;
+    height: 70px;
+    position: absolute;
+    background-color: rgba(204, 186, 182, 0.15);
+}
+
+.sale1 {
+    font-size: 17px;
+    font-weight: normal;
+    position: absolute;
+    margin-top: -156px;
+    margin-left: 695px;
+}
+
+.item20 {
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: -106px;
+    margin-left: -340px;
+}
+
+.item20:hover {
+    transition: 1s;
+    transform: scale(0.9);
+   }
+
+.item21 {
+    height: 295px;
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: -105px;
+    margin-left: -169px;
+}
+
+.item21:hover {
+    transition: 1s;
+    transform: scale(0.9);
+   }
+
+.item22 {
+    height: 294px;
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: -104px;
+    margin-left: 2px; 
+}
+
+.item22:hover {
+    transition: 1s;
+    transform: scale(0.9);
+}
+
+.item23 {
+    height: 294px;
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: -105px;
+    margin-left: 173px; 
+}
+
+.item23:hover {
+    transition: 1s;
+    transform: scale(0.9);
+}
+
+.item24 {
+    height: 291px;
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: 195px;
+    margin-left: -340px;
+}
+
+.item24:hover {
+    transition: 1s;
+    transform: scale(0.9);
+}
+
+.item25:hover {
+    transition: 1s;
+    transform: scale(0.9);
+}
+
+.item25 {
+    height: 293px;
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: 195px;
+    margin-left: -169px;
+}
+
+.item26 {
+    height: 291px;
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: 195px;
+    margin-left: 2px;
+}
+
+.item26:hover {
+    transition: 1s;
+    transform: scale(0.9);
+}
+
+.item27:hover {
+    transition: 1s;
+    transform: scale(0.9);
+}
+
+.item27 {
+    height: 294px;
+    cursor: pointer;
+    position: absolute;
+    width: 165px;
+    margin-top: 195px;
+    margin-left: 173px;
+}
+
+.womenss {
+    color: black;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 116px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.womenss:hover {
+    transition: 1s;
+    color:gray
+}
+
+.menss {
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 355px;
+    margin-left: -235px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.menss:hover {
+    transition: 1s;
+    color:rgb(228, 227, 227)
+}
+
+.spring {
+    margin-top: -20px;
+    position: absolute;
+    margin-left: 858px;
+    font-weight: normal;
+    font-size: 17px;
+}
+
+.liner {
+    margin-top: 19px;
+    margin-left: 908px;
+    width: 50px;
+    height: 1.5px;
+    position: absolute;
+    background-color: black;
+}
+
+.freedom {
+    margin-top: 255px;
+    font-size: 32px;
+    margin-left: 449px;
+    font-weight: normal;
+    position: absolute;
+    color: white;
+}
+
+.summer {
+    margin-top: 305px;
+    position: absolute;
+    margin-left: 504px;
+    font-weight: normal;
+    font-size: 17px;
+    color: white;
+}
+
+.liner2 {
+    margin-top: 342px;
+    margin-left: 558px;
+    width: 50px;
+    height: 2px;
+    position: absolute;
+    background-color: white;
+}
+
+.subscribe {
+    position: absolute;
+    font-weight: normal;
+    margin-left: 585px;
+    margin-top: 990px;
+    font-size: 25px;
+    color: black;
+}
+
+.first {
+    position: absolute;
+    font-weight: normal;
+    margin-left: 530px;
+    margin-top: 1025px;
+    font-size: 15px;
+    color: black;
+
+}
+
+.lookbook1 {
+    font-size: 17px;
+    font-weight: normal;
+    position: absolute;
+    margin-top: -156px;
+    margin-left: 720px;
+}
+
+.text2035 {
+    color: gray;
+    font-size: 13px;
+    font-weight: normal;
+    position: absolute;
+    margin-top: -130px;
+    margin-left: 695px;
+}
+
+.counter {
+    margin-left: 1115px;
+    font-size: 100px;
+    margin-top: -280px;
+    position: absolute;
+    color: black;
+}
+
+.counter3 {
+    z-index: 1;
+    font-size: 11px;
+    margin-left: 58px;
+    margin-top: 140px;
+    height: 30px;
+    cursor: pointer;
+    position: absolute;
+    width: 250px;
+    background-color: #242323;
+    color: white;
+}
+
+.counter2 {
+    z-index: 1;
+    font-size: 11px;
+    margin-left: 58px;
+    margin-top: 100px;
+    height: 30px;
+    cursor: pointer;
+    position: absolute;
+    width: 250px;
+    background-color: #242323;
+    color: white;
+}
+
+.counter2:hover {
+    z-index: 1;
+    transition: 1s;
+    background-color:#575757;
+}
+
+.counter3:hover {
+    z-index: 1;
+    transition: 1s;
+    background-color:#575757;
+}
+
+.stick {
+    margin-top: -260px;
+    margin-left: 1098px;
+    width: 1px;
+    height: 30px;
+    position: absolute;
+    background-color: black;
+}
